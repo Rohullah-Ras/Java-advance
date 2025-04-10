@@ -1,0 +1,14 @@
+nl\sibrenrocva\demo\controller\RecipeController.class
+nl\sibrenrocva\demo\repository\RecipeRepository.class
+nl\sibrenrocva\demo\service\BCryptPasswordEncoder.class
+nl\sibrenrocva\demo\model\User.class
+nl\sibrenrocva\demo\controller\TodoController.class
+nl\sibrenrocva\demo\repository\UserRepository.class
+nl\sibrenrocva\demo\controller\AuthenticationController.class
+nl\sibrenrocva\demo\repository\TodoRepository.class
+nl\sibrenrocva\demo\service\passwordEncoder.class
+nl\sibrenrocva\demo\service\AuthenticationService.class
+nl\sibrenrocva\demo\model\Recipe.class
+nl\sibrenrocva\demo\model\Todo.class
+nl\sibrenrocva\demo\DemoApplication.class
+nl\sibrenrocva\demo\service\RecipeService.class
